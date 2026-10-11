@@ -5,45 +5,58 @@
 I design, implement, secure, and troubleshoot enterprise and
 carrier-grade networks and infrastructure across on-premises, hybrid-cloud, and cloud
 environments. Here I document practical engineering projects,
-lab work, infrastructure-as-code, and automation gigs
+lab work, infrastructure-as-code, and automation 
 
 My focus is on building networks & Infrastructure that is **resilient, secure, scalable,
 observable, and repeatable**.
 
 
-## Technical Skills
+---
 
-  -----------------------------------------------------------------------
-  Area                                Technologies and Concepts
-  ----------------------------------- -----------------------------------
-  Routing and switching               BGP, OSPF, IS-IS, MP-BGP, IPv6,
-                                      VLANs, STP, QoS, multicast, ECMP
+## 🔧 What I do
 
-  WAN and service provider            MPLS, L2VPN, L3VPN, VRF,
-                                      EVPN/VXLAN, SD-WAN, IPsec VPN
+- 🔐 **Network security:** firewall design and migrations, IPsec VPNs, segmentation, policy management at scale
+- ☁️ **Cloud networking:** Azure VNets, peering, Virtual Network Gateways, site-to-site VPNs, AWS hybrid connectivity
+- ⚙️ **Automation:** Terraform, Ansible and Python to replace manual changes with code
+- 🌐 **Routing and data centre:** BGP, OSPF, IS-IS, MPLS, EVPN, VXLAN, Cisco ACI and SD-WAN
+- 🛠️ **Escalation and mentoring:** complex troubleshooting, root cause analysis, and turning technical risk into practical business decisions
 
-  Network security                    FortiGate, FortiManager,
-                                      FortiAnalyzer, Palo Alto Networks,
-                                      Panorama, segmentation, firewall
-                                      policy management
+---
 
-  Cloud networking                    Microsoft Azure VNets, VNet
-                                      peering, VPN Gateway, NSGs, private
-                                      endpoints, point-to-site and
-                                      site-to-site VPN, AWS hybrid
-                                      connectivity
 
-  Network platforms                   Cisco, Juniper, Arista, Fortinet,
-                                      Palo Alto Networks, Aruba, F5
+## 🧰 Tech stack
 
-  Automation and IaC                  Python, Ansible, Terraform, Bash,
-                                      YAML, JSON, REST APIs, Git
+**Automation and IaC:** Terraform · Ansible · Python · Bash · GitLab CI/CD · Docker · Kubernetes
 
-  Operations and design               High availability, disaster
-                                      recovery, change management,
-                                      incident troubleshooting,
-                                      monitoring, documentation
-  -----------------------------------------------------------------------
+**Cloud:** Microsoft Azure · AWS · GCP
+
+**Network security:** FortiGate · FortiManager · FortiAnalyzer · Palo Alto · Panorama · Cisco FTD · Cisco ASA · Juniper SRX
+
+**Routing and switching:** BGP · OSPF · IS-IS · MPLS · EVPN · VXLAN · IPv6 · QoS
+
+**Monitoring and ops:** Splunk · SolarWinds · ServiceNow · NetFlow · SNMPv3 · Syslog
+
+---
+
+## 🎓 Certifications
+
+- CCNP Enterprise
+- CCNP Security
+- CCNP Automation
+- CISSP
+- Cisco Certified DevNet Professional
+- Fortinet NSE 4
+
+
+## 🤝 Let's connect
+
+Hiring, building, or just want to talk network automation? Say hi.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chijindu-onuoha)
+
+📍 Based in New Zealand
+
+
 
 <!--
 **chijindu/chijindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
