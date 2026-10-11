@@ -1,5 +1,13 @@
 ## Hi, I'm Chijindu  👋
-#### Senior Network Engineer | Cloud & Network Security
+
+### Senior Network Engineer | Cloud & Network Security
+
+I design, implement, secure, and troubleshoot enterprise and
+carrier-grade networks and infrastructure across on-premises, hybrid-cloud, and cloud
+environments.
+
+My focus is on building networks & Infrastructure that is **resilient, secure, scalable,
+observable, and repeatable**.
 <!--
 **chijindu/chijindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
