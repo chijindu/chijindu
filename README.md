@@ -1,4 +1,4 @@
-# Hi, I'm Chijindu  👋
+## Hi, I'm Chijindu  👋
 
 ### Senior Network Engineer \| Architect \| Cloud \| Automation \| DevOps
 
@@ -10,20 +10,41 @@ lab work, infrastructure-as-code, and automation gigs
 My focus is on building networks & Infrastructure that is **resilient, secure, scalable,
 observable, and repeatable**.
 
-## What I Do
 
--   10+ years of experience across enterprise networking,
-    service-provider environments, network security, and cloud
-    connectivity.
--   Experienced with WAN/MPLS, BGP, OSPF, VRF, L2VPN/L3VPN,
-    segmentation, high availability, and network troubleshooting.
--   Hands-on with Azure networking and hybrid connectivity, including
-    VNets, VNet peering, VPN gateways, Network Security Groups, private
-    endpoints, and virtual firewall deployments.
--   Interested in applying automation and Infrastructure as Code to
-    reduce manual effort, improve consistency, and make network changes
-    easier to test and review.
--   Based in New Zealand.
+## Technical Skills
+
+  -----------------------------------------------------------------------
+  Area                                Technologies and Concepts
+  ----------------------------------- -----------------------------------
+  Routing and switching               BGP, OSPF, IS-IS, MP-BGP, IPv6,
+                                      VLANs, STP, QoS, multicast, ECMP
+
+  WAN and service provider            MPLS, L2VPN, L3VPN, VRF,
+                                      EVPN/VXLAN, SD-WAN, IPsec VPN
+
+  Network security                    FortiGate, FortiManager,
+                                      FortiAnalyzer, Palo Alto Networks,
+                                      Panorama, segmentation, firewall
+                                      policy management
+
+  Cloud networking                    Microsoft Azure VNets, VNet
+                                      peering, VPN Gateway, NSGs, private
+                                      endpoints, point-to-site and
+                                      site-to-site VPN, AWS hybrid
+                                      connectivity
+
+  Network platforms                   Cisco, Juniper, Arista, Fortinet,
+                                      Palo Alto Networks, Aruba, F5
+
+  Automation and IaC                  Python, Ansible, Terraform, Bash,
+                                      YAML, JSON, REST APIs, Git
+
+  Operations and design               High availability, disaster
+                                      recovery, change management,
+                                      incident troubleshooting,
+                                      monitoring, documentation
+  -----------------------------------------------------------------------
+
 <!--
 **chijindu/chijindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
