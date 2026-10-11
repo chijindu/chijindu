@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Chijindu  👋
+Senior Network Engineer | Cloud & Network Security
 <!--
 **chijindu/chijindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
