@@ -30,11 +30,14 @@ observable, and repeatable**.
 
 **Cloud:** Microsoft Azure · AWS · GCP
 
-**Network security:** FortiGate · FortiManager · FortiAnalyzer · Palo Alto · Panorama · Cisco FTD · Cisco ASA · Juniper SRX
+**Network security:** FortiGate · FortiManager · IPS/IDS · IPsec VPN· Palo Alto · Panorama · Cisco FTD · Cisco ASA · Juniper SRX
 
 **Routing and switching:** BGP · OSPF · IS-IS · MPLS · EVPN · VXLAN · IPv6 · QoS
 
 **Monitoring and ops:** Splunk · SolarWinds · ServiceNow · NetFlow · SNMPv3 · Syslog
+
+**Lab & Validation:** Eve-ng · Containerlab · Wireshark · CML· GNS3
+
 
 ---
 
@@ -44,7 +47,6 @@ observable, and repeatable**.
 - CCNP Security
 - CCNP Automation
 - CISSP
-- Cisco Certified DevNet Professional
 - Fortinet NSE 4
 
 
