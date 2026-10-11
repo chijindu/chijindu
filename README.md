@@ -10,7 +10,7 @@ lab work, infrastructure-as-code, and automation gigs
 My focus is on building networks & Infrastructure that is **resilient, secure, scalable,
 observable, and repeatable**.
 
-## About Me
+## What I Do
 
 -   10+ years of experience across enterprise networking,
     service-provider environments, network security, and cloud
