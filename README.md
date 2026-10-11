@@ -1,6 +1,6 @@
 ## Hi, I'm Chijindu  👋
 
-### Senior Network Engineer \| Network Architect \| Cloud Networking \| Network Automation
+### Senior Network Engineer \| Architect \| Networking \| Automation \| DevOps
 
 I design, implement, secure, and troubleshoot enterprise and
 carrier-grade networks and infrastructure across on-premises, hybrid-cloud, and cloud
