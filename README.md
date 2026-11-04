@@ -49,14 +49,14 @@ observable, and repeatable**.
 - CISSP
 - Fortinet NSE 4
 
-## Featured Notes to Engineers
-# 🚀 Engineering Profile & Highlights
 
-## 🛠️ High-Impact Case Study: Multi-Vendor IPsec Interoperability
+## 🚀 Engineering Profile & Highlights
+
+### 🛠️ High-Impact Case Study: Multi-Vendor IPsec Interoperability
 
 ### **Palo Alto to Cisco ASA IPsec S2S VPN Phase 2 Mismatch**
 * **Context:** Troubleshot a critical Site-to-Site (S2S) IPsec VPN tunnel setup between a local legacy Cisco ASA (IKEv1) and a customer's newly migrated Palo Alto firewall.
-* **Problem:** Phase 1 established cleanly, but Phase 2 repeatedly failed on the ASA with `bad proposal received` errors—despite matching encryption, hash, and lifetime parameters across both ends. Disabling Perfect Forward Secrecy (PFS) on both sides did not resolve the mismatch.
+* **Problem:** Phase 1 established cleanly, but Phase 2 repeatedly failed on the ASA with `bad proposal received` errors, despite matching encryption, hash, and lifetime parameters across both ends. Disabling Perfect Forward Secrecy (PFS) on both sides did not resolve the mismatch.
 * **Root Cause Analysis:** PAN-OS can implicitly include Diffie-Hellman (PFS) exchange payload structures or Quick Mode defaults even when explicitly set to "disabled" in the configuration UI. The legacy Cisco ASA flagged these unexpected payload structures as a proposal mismatch and rejected the negotiation.
 * **Resolution:** Explicitly configured and synchronized Perfect Forward Secrecy (PFS) DH groups on both firewalls. Forcing both peers to explicitly negotiate the exact Phase 2 DH exchange parameters resolved the payload disagreement and brought the tunnel fully operational.
 * **Key Takeaway:** Vendor interoperability—especially with legacy IKEv1 devices—often requires accounting for implicit platform defaults and underlying Quick Mode payload structures rather than relying solely on UI settings.
